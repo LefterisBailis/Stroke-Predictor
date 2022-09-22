@@ -9,5 +9,5 @@
 ###### XGBoost
 ###### SVC
 
-##### Perfomance of Diffirent Algorithms
+##### Perfomance of Different Algorithms
 ![Models Accuracy](/model_acc.png)
