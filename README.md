@@ -5,6 +5,9 @@
 #### The data is imbalanced, there are 249 person are patients and 4861 aren't
 
 ##### The Algorithms used:
-Random forest
-XGBoost
-SVC
+###### Random forest
+###### XGBoost
+###### SVC
+
+##### Perfomance of Diffirent Algorithms
+![Models Accuracy](/model_acc.png)
